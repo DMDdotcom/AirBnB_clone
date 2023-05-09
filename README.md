@@ -4,6 +4,16 @@ The created data (Python objects) are written to a json file and viewed using th
 Description of the command interpreter:
 The app's user interface is nearly identical to that of the Bash shell, with the exception that it recognizes just a subset of the full set of Bash commands.
 This CLI interpreter is the web app's front end, allowing users to communicate with the python OOP-based backend.
+
+The console: It is similar to that pf shell we just that it has just a single use. A command line interphase that helps us interact and deliverss output.
+
+The UUID: The unique identifier of the instances of each class object
+
+Basemodel: ucontain the initial attributes tha subsequent base clases inherit from 
+
+
+
+
 Some of the commands available are:
 •	show
 •	create
